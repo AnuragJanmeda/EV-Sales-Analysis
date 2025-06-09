@@ -1,0 +1,101 @@
+Station_ID,Location,State,Installation_Date,Charger_Type,Capacity_kW
+1,Location_1,Karnataka,2021-06-22,Fast Charger,100
+2,Location_2,Maharashtra,2021-09-06,Fast Charger,30
+3,Location_3,Tamil Nadu,2022-06-10,Slow Charger,50
+4,Location_4,Maharashtra,2023-07-17,Slow Charger,15
+5,Location_5,Karnataka,2020-09-26,Fast Charger,50
+6,Location_6,Telangana,2020-05-16,Fast Charger,15
+7,Location_7,Karnataka,2023-05-01,Fast Charger,50
+8,Location_8,Karnataka,2022-04-12,Slow Charger,30
+9,Location_9,Telangana,2023-07-27,Fast Charger,100
+10,Location_10,Telangana,2022-10-11,Fast Charger,15
+11,Location_11,Karnataka,2022-04-03,Slow Charger,15
+12,Location_12,Delhi,2022-05-20,Slow Charger,30
+13,Location_13,Maharashtra,2020-01-24,Fast Charger,50
+14,Location_14,Maharashtra,2022-10-06,Slow Charger,30
+15,Location_15,Karnataka,2020-09-17,Fast Charger,15
+16,Location_16,Maharashtra,2022-11-21,Slow Charger,100
+17,Location_17,Maharashtra,2023-01-12,Slow Charger,100
+18,Location_18,Telangana,2021-04-20,Fast Charger,30
+19,Location_19,Karnataka,2023-04-26,Slow Charger,15
+20,Location_20,Maharashtra,2021-03-08,Slow Charger,15
+21,Location_21,Tamil Nadu,2021-05-06,Slow Charger,50
+22,Location_22,Delhi,2021-03-06,Slow Charger,50
+23,Location_23,Maharashtra,2020-08-11,Slow Charger,50
+24,Location_24,Delhi,2022-04-04,Fast Charger,15
+25,Location_25,Delhi,2022-06-11,Fast Charger,100
+26,Location_26,Telangana,2022-06-28,Slow Charger,50
+27,Location_27,Karnataka,2020-02-20,Slow Charger,50
+28,Location_28,Delhi,2021-08-06,Fast Charger,100
+29,Location_29,Telangana,2020-05-23,Fast Charger,30
+30,Location_30,Delhi,2021-07-26,Slow Charger,30
+31,Location_31,Telangana,2021-06-25,Slow Charger,100
+32,Location_32,Telangana,2021-03-23,Slow Charger,30
+33,Location_33,Delhi,2020-03-22,Fast Charger,50
+34,Location_34,Tamil Nadu,2022-05-16,Fast Charger,100
+35,Location_35,Maharashtra,2022-03-19,Slow Charger,30
+36,Location_36,Maharashtra,2022-03-19,Slow Charger,15
+37,Location_37,Telangana,2021-07-10,Slow Charger,30
+38,Location_38,Karnataka,2021-08-01,Slow Charger,50
+39,Location_39,Tamil Nadu,2023-05-09,Slow Charger,50
+40,Location_40,Telangana,2020-05-06,Fast Charger,50
+41,Location_41,Karnataka,2020-03-18,Slow Charger,15
+42,Location_42,Maharashtra,2021-08-04,Slow Charger,100
+43,Location_43,Tamil Nadu,2022-05-09,Slow Charger,30
+44,Location_44,Karnataka,2020-08-06,Slow Charger,100
+45,Location_45,Telangana,2023-06-24,Slow Charger,50
+46,Location_46,Delhi,2022-05-05,Fast Charger,50
+47,Location_47,Telangana,2020-10-23,Slow Charger,100
+48,Location_48,Karnataka,2020-12-29,Slow Charger,15
+49,Location_49,Maharashtra,2023-11-11,Slow Charger,30
+50,Location_50,Karnataka,2020-11-12,Fast Charger,30
+51,Location_51,Karnataka,2020-11-26,Slow Charger,50
+52,Location_52,Telangana,2022-10-21,Slow Charger,30
+53,Location_53,Delhi,2023-08-30,Slow Charger,100
+54,Location_54,Maharashtra,2022-09-06,Fast Charger,30
+55,Location_55,Delhi,2020-01-05,Slow Charger,30
+56,Location_56,Karnataka,2021-11-16,Fast Charger,30
+57,Location_57,Telangana,2021-12-04,Fast Charger,15
+58,Location_58,Delhi,2022-05-25,Slow Charger,30
+59,Location_59,Karnataka,2020-04-15,Fast Charger,15
+60,Location_60,Karnataka,2021-09-06,Slow Charger,100
+61,Location_61,Telangana,2023-04-28,Fast Charger,50
+62,Location_62,Tamil Nadu,2021-07-19,Fast Charger,100
+63,Location_63,Delhi,2023-08-11,Slow Charger,15
+64,Location_64,Telangana,2022-07-21,Fast Charger,15
+65,Location_65,Karnataka,2021-02-25,Slow Charger,100
+66,Location_66,Delhi,2023-04-07,Fast Charger,15
+67,Location_67,Maharashtra,2023-12-08,Fast Charger,30
+68,Location_68,Telangana,2022-02-03,Fast Charger,15
+69,Location_69,Karnataka,2020-06-01,Fast Charger,50
+70,Location_70,Tamil Nadu,2023-01-14,Slow Charger,50
+71,Location_71,Tamil Nadu,2022-02-19,Slow Charger,30
+72,Location_72,Maharashtra,2022-08-15,Slow Charger,50
+73,Location_73,Telangana,2020-09-04,Slow Charger,100
+74,Location_74,Telangana,2023-02-02,Fast Charger,100
+75,Location_75,Delhi,2023-11-02,Fast Charger,100
+76,Location_76,Karnataka,2021-12-09,Fast Charger,30
+77,Location_77,Karnataka,2023-04-24,Fast Charger,100
+78,Location_78,Telangana,2021-06-25,Fast Charger,100
+79,Location_79,Maharashtra,2022-05-04,Slow Charger,15
+80,Location_80,Tamil Nadu,2023-12-10,Fast Charger,100
+81,Location_81,Telangana,2021-05-08,Slow Charger,30
+82,Location_82,Maharashtra,2023-12-29,Fast Charger,30
+83,Location_83,Tamil Nadu,2020-04-09,Fast Charger,30
+84,Location_84,Delhi,2021-11-09,Slow Charger,30
+85,Location_85,Maharashtra,2023-04-30,Fast Charger,100
+86,Location_86,Maharashtra,2020-06-25,Slow Charger,15
+87,Location_87,Delhi,2022-04-21,Slow Charger,50
+88,Location_88,Tamil Nadu,2021-02-16,Slow Charger,30
+89,Location_89,Tamil Nadu,2020-10-23,Slow Charger,100
+90,Location_90,Telangana,2021-09-01,Fast Charger,15
+91,Location_91,Karnataka,2020-01-28,Fast Charger,100
+92,Location_92,Maharashtra,2022-09-30,Slow Charger,30
+93,Location_93,Karnataka,2020-02-23,Fast Charger,100
+94,Location_94,Tamil Nadu,2021-05-25,Fast Charger,100
+95,Location_95,Tamil Nadu,2023-09-04,Slow Charger,100
+96,Location_96,Delhi,2022-08-21,Slow Charger,30
+97,Location_97,Telangana,2020-05-04,Fast Charger,100
+98,Location_98,Delhi,2022-07-14,Slow Charger,30
+99,Location_99,Telangana,2023-05-12,Slow Charger,100
+100,Location_100,Tamil Nadu,2021-06-26,Fast Charger,15

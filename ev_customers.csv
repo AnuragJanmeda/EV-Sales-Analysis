@@ -1,0 +1,201 @@
+Customer_ID,Purchase_Date,State,Age_Group,Gender,Model_Purchased
+1,2023-10-21,Tamil Nadu,60+,Female,Kona Electric
+2,2023-10-26,Karnataka,26-35,Female,eVerito
+3,2023-12-27,Telangana,36-45,Female,450X
+4,2023-12-31,Delhi,46-60,Female,450X
+5,2023-03-30,Telangana,36-45,Female,Nexon EV
+6,2023-04-19,Maharashtra,36-45,Female,S1 Pro
+7,2023-02-16,Tamil Nadu,26-35,Female,Kona Electric
+8,2023-09-26,Karnataka,60+,Female,Tigor EV
+9,2023-10-17,Karnataka,60+,Other,Tigor EV
+10,2023-07-22,Karnataka,18-25,Male,S1 Pro
+11,2023-10-17,Maharashtra,60+,Female,ZS EV
+12,2023-10-05,Tamil Nadu,60+,Male,eVerito
+13,2023-10-27,Tamil Nadu,26-35,Male,Kona Electric
+14,2023-09-10,Telangana,36-45,Female,eVerito
+15,2023-08-28,Tamil Nadu,36-45,Other,450X
+16,2023-09-28,Telangana,36-45,Female,S1 Pro
+17,2023-11-26,Karnataka,26-35,Female,450X
+18,2023-09-11,Maharashtra,60+,Other,S1 Pro
+19,2023-10-26,Delhi,18-25,Other,Nexon EV
+20,2023-01-16,Karnataka,46-60,Female,ZS EV
+21,2023-06-17,Delhi,46-60,Male,Kona Electric
+22,2023-12-16,Karnataka,60+,Other,e2o Plus
+23,2023-06-21,Telangana,46-60,Female,e2o Plus
+24,2023-03-28,Telangana,46-60,Other,450X
+25,2023-05-22,Telangana,36-45,Other,Kona Electric
+26,2023-03-31,Tamil Nadu,60+,Male,S1 Pro
+27,2023-06-15,Telangana,26-35,Female,Kona Electric
+28,2023-04-30,Telangana,60+,Female,S1 Pro
+29,2023-07-01,Telangana,18-25,Male,450X
+30,2023-08-01,Maharashtra,26-35,Male,ZS EV
+31,2023-09-01,Telangana,26-35,Male,ZS EV
+32,2023-05-18,Tamil Nadu,18-25,Other,ZS EV
+33,2023-02-22,Delhi,60+,Other,Tigor EV
+34,2023-11-21,Maharashtra,46-60,Female,ZS EV
+35,2023-12-16,Tamil Nadu,26-35,Other,e2o Plus
+36,2023-05-23,Tamil Nadu,60+,Female,Nexon EV
+37,2023-02-20,Telangana,26-35,Male,450X
+38,2023-05-18,Karnataka,18-25,Male,Nexon EV
+39,2023-09-08,Tamil Nadu,60+,Male,Tigor EV
+40,2023-02-04,Maharashtra,26-35,Male,450X
+41,2023-06-29,Maharashtra,36-45,Female,eVerito
+42,2023-04-03,Karnataka,46-60,Other,Nexon EV
+43,2023-09-17,Delhi,60+,Male,ZS EV
+44,2023-10-20,Telangana,18-25,Other,ZS EV
+45,2023-11-22,Karnataka,60+,Other,S1 Pro
+46,2023-05-19,Karnataka,60+,Male,S1 Pro
+47,2023-07-10,Tamil Nadu,36-45,Other,450X
+48,2023-03-31,Delhi,46-60,Other,S1 Pro
+49,2023-04-03,Maharashtra,60+,Male,S1 Pro
+50,2023-10-20,Maharashtra,46-60,Male,Kona Electric
+51,2023-02-20,Maharashtra,26-35,Other,Nexon EV
+52,2023-09-06,Tamil Nadu,18-25,Male,Tigor EV
+53,2023-01-15,Maharashtra,26-35,Male,Tigor EV
+54,2023-02-04,Delhi,26-35,Female,e2o Plus
+55,2023-09-26,Telangana,46-60,Female,ZS EV
+56,2023-10-07,Maharashtra,18-25,Female,S1 Pro
+57,2023-07-06,Delhi,46-60,Female,Nexon EV
+58,2023-06-13,Tamil Nadu,46-60,Male,Tigor EV
+59,2023-10-22,Delhi,18-25,Male,e2o Plus
+60,2023-01-29,Maharashtra,18-25,Male,S1 Pro
+61,2023-03-17,Telangana,60+,Female,450X
+62,2023-03-20,Tamil Nadu,36-45,Female,ZS EV
+63,2023-08-28,Delhi,18-25,Female,Kona Electric
+64,2023-06-13,Telangana,26-35,Female,eVerito
+65,2023-01-15,Telangana,46-60,Other,ZS EV
+66,2023-05-23,Delhi,46-60,Male,450X
+67,2023-12-05,Delhi,60+,Male,Kona Electric
+68,2023-10-12,Delhi,36-45,Other,Tigor EV
+69,2023-03-03,Tamil Nadu,18-25,Male,ZS EV
+70,2023-07-18,Maharashtra,18-25,Male,450X
+71,2023-02-10,Karnataka,46-60,Other,S1 Pro
+72,2023-01-23,Maharashtra,36-45,Male,450X
+73,2023-05-03,Telangana,36-45,Other,450X
+74,2023-03-18,Karnataka,60+,Male,450X
+75,2023-09-23,Maharashtra,26-35,Female,e2o Plus
+76,2023-02-01,Tamil Nadu,18-25,Female,Kona Electric
+77,2023-12-16,Karnataka,26-35,Male,Kona Electric
+78,2023-11-06,Delhi,36-45,Other,Tigor EV
+79,2023-06-11,Delhi,60+,Female,Kona Electric
+80,2023-01-13,Telangana,46-60,Female,eVerito
+81,2023-01-05,Delhi,26-35,Male,Kona Electric
+82,2023-12-10,Telangana,60+,Female,Kona Electric
+83,2023-03-11,Tamil Nadu,46-60,Male,Kona Electric
+84,2023-05-30,Tamil Nadu,18-25,Other,ZS EV
+85,2023-10-03,Delhi,60+,Female,eVerito
+86,2023-09-26,Maharashtra,26-35,Other,e2o Plus
+87,2023-07-15,Delhi,18-25,Other,e2o Plus
+88,2023-03-31,Delhi,60+,Female,Kona Electric
+89,2023-05-10,Telangana,46-60,Other,450X
+90,2023-08-27,Tamil Nadu,18-25,Other,ZS EV
+91,2023-04-04,Tamil Nadu,18-25,Other,Tigor EV
+92,2023-05-01,Delhi,18-25,Female,eVerito
+93,2023-03-19,Karnataka,18-25,Female,ZS EV
+94,2023-11-24,Delhi,46-60,Other,e2o Plus
+95,2023-08-11,Telangana,18-25,Male,Tigor EV
+96,2023-06-08,Maharashtra,36-45,Male,450X
+97,2023-07-28,Karnataka,60+,Female,S1 Pro
+98,2023-08-15,Telangana,36-45,Male,Nexon EV
+99,2023-06-15,Maharashtra,36-45,Female,S1 Pro
+100,2023-09-11,Delhi,60+,Male,450X
+101,2023-12-31,Tamil Nadu,18-25,Male,ZS EV
+102,2023-10-26,Telangana,46-60,Female,450X
+103,2023-08-04,Tamil Nadu,26-35,Other,450X
+104,2023-03-27,Karnataka,46-60,Female,Tigor EV
+105,2023-02-12,Tamil Nadu,46-60,Male,Tigor EV
+106,2023-12-02,Karnataka,46-60,Male,e2o Plus
+107,2023-09-29,Tamil Nadu,26-35,Female,Kona Electric
+108,2023-10-01,Tamil Nadu,36-45,Other,Kona Electric
+109,2023-04-21,Maharashtra,26-35,Male,e2o Plus
+110,2023-11-21,Tamil Nadu,18-25,Male,ZS EV
+111,2023-09-05,Delhi,46-60,Female,e2o Plus
+112,2023-08-25,Delhi,18-25,Male,450X
+113,2023-01-30,Karnataka,36-45,Other,e2o Plus
+114,2023-05-29,Maharashtra,36-45,Other,Kona Electric
+115,2023-07-03,Maharashtra,26-35,Female,ZS EV
+116,2023-12-14,Maharashtra,60+,Female,Nexon EV
+117,2023-09-16,Delhi,26-35,Male,ZS EV
+118,2023-10-19,Delhi,18-25,Male,Nexon EV
+119,2023-04-21,Telangana,18-25,Male,eVerito
+120,2023-10-30,Telangana,46-60,Other,450X
+121,2023-07-31,Karnataka,18-25,Male,450X
+122,2023-08-28,Telangana,26-35,Female,ZS EV
+123,2023-06-06,Karnataka,18-25,Male,S1 Pro
+124,2023-07-14,Maharashtra,18-25,Female,450X
+125,2023-07-26,Telangana,26-35,Female,ZS EV
+126,2023-03-27,Maharashtra,26-35,Other,Tigor EV
+127,2023-07-22,Tamil Nadu,46-60,Other,ZS EV
+128,2023-08-30,Delhi,36-45,Other,450X
+129,2023-10-25,Telangana,46-60,Female,Tigor EV
+130,2023-09-29,Tamil Nadu,60+,Other,e2o Plus
+131,2023-05-14,Tamil Nadu,46-60,Female,Kona Electric
+132,2023-04-28,Telangana,18-25,Female,S1 Pro
+133,2023-12-14,Karnataka,26-35,Male,e2o Plus
+134,2023-08-31,Delhi,46-60,Male,Kona Electric
+135,2023-08-20,Tamil Nadu,36-45,Female,450X
+136,2023-05-13,Karnataka,36-45,Female,eVerito
+137,2023-08-13,Delhi,60+,Other,S1 Pro
+138,2023-12-06,Tamil Nadu,26-35,Male,S1 Pro
+139,2023-06-23,Telangana,18-25,Other,eVerito
+140,2023-10-03,Maharashtra,26-35,Female,Kona Electric
+141,2023-02-12,Delhi,60+,Other,e2o Plus
+142,2023-08-10,Maharashtra,36-45,Female,S1 Pro
+143,2023-06-24,Karnataka,60+,Other,Tigor EV
+144,2023-07-14,Tamil Nadu,36-45,Male,ZS EV
+145,2023-05-23,Karnataka,60+,Other,eVerito
+146,2023-04-14,Telangana,60+,Female,ZS EV
+147,2023-10-08,Maharashtra,36-45,Other,e2o Plus
+148,2023-05-29,Telangana,18-25,Other,S1 Pro
+149,2023-03-08,Karnataka,46-60,Female,Tigor EV
+150,2023-04-05,Telangana,36-45,Male,450X
+151,2023-08-21,Karnataka,46-60,Female,eVerito
+152,2023-09-20,Delhi,46-60,Male,450X
+153,2023-11-20,Maharashtra,46-60,Male,S1 Pro
+154,2023-09-12,Maharashtra,36-45,Female,ZS EV
+155,2023-04-25,Telangana,46-60,Female,450X
+156,2023-10-19,Karnataka,60+,Other,Kona Electric
+157,2023-12-20,Karnataka,36-45,Other,e2o Plus
+158,2023-04-23,Maharashtra,36-45,Male,450X
+159,2023-10-11,Karnataka,60+,Other,Kona Electric
+160,2023-09-03,Delhi,36-45,Male,Kona Electric
+161,2023-12-28,Maharashtra,26-35,Other,eVerito
+162,2023-10-20,Karnataka,46-60,Male,eVerito
+163,2023-01-07,Tamil Nadu,26-35,Male,S1 Pro
+164,2023-06-30,Telangana,36-45,Male,Kona Electric
+165,2023-02-18,Telangana,46-60,Female,ZS EV
+166,2023-02-06,Karnataka,18-25,Other,e2o Plus
+167,2023-06-04,Maharashtra,36-45,Male,eVerito
+168,2023-05-25,Delhi,36-45,Other,Kona Electric
+169,2023-12-21,Delhi,26-35,Female,S1 Pro
+170,2023-05-21,Tamil Nadu,60+,Female,Kona Electric
+171,2023-02-26,Delhi,36-45,Male,S1 Pro
+172,2023-02-15,Maharashtra,18-25,Other,Tigor EV
+173,2023-01-10,Delhi,36-45,Female,Kona Electric
+174,2023-04-17,Karnataka,46-60,Male,S1 Pro
+175,2023-02-05,Karnataka,36-45,Other,Kona Electric
+176,2023-05-20,Delhi,46-60,Female,Tigor EV
+177,2023-07-21,Telangana,60+,Male,Kona Electric
+178,2023-10-23,Karnataka,18-25,Male,Kona Electric
+179,2023-11-04,Delhi,60+,Other,Kona Electric
+180,2023-04-12,Karnataka,46-60,Other,Nexon EV
+181,2023-01-16,Maharashtra,18-25,Male,e2o Plus
+182,2023-11-08,Karnataka,60+,Female,Kona Electric
+183,2023-10-20,Tamil Nadu,36-45,Other,Tigor EV
+184,2023-10-12,Maharashtra,60+,Other,Kona Electric
+185,2023-06-26,Telangana,46-60,Male,ZS EV
+186,2023-11-26,Tamil Nadu,18-25,Male,S1 Pro
+187,2023-03-09,Karnataka,60+,Male,ZS EV
+188,2023-11-06,Karnataka,26-35,Male,eVerito
+189,2023-02-16,Tamil Nadu,46-60,Female,ZS EV
+190,2023-02-02,Maharashtra,46-60,Male,Nexon EV
+191,2023-05-09,Telangana,36-45,Female,Kona Electric
+192,2023-10-15,Telangana,36-45,Other,eVerito
+193,2023-12-14,Tamil Nadu,46-60,Male,e2o Plus
+194,2023-02-13,Tamil Nadu,26-35,Female,S1 Pro
+195,2023-05-31,Karnataka,18-25,Other,S1 Pro
+196,2023-09-02,Karnataka,26-35,Male,Kona Electric
+197,2023-10-18,Tamil Nadu,26-35,Other,ZS EV
+198,2023-10-26,Tamil Nadu,26-35,Male,S1 Pro
+199,2023-12-07,Telangana,18-25,Other,Nexon EV
+200,2023-05-07,Delhi,60+,Male,Kona Electric
